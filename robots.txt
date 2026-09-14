@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digitalfacil365.com/sitemap.xml

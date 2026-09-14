@@ -1,0 +1,5 @@
+DIGITAL FÁCIL 365 - versión fácil para móvil
+
+Esta versión no usa carpetas internas. Todos los archivos están en una sola carpeta para que puedas seleccionarlos todos desde el móvil y subirlos juntos a GitHub.
+
+IMPORTANTE: sube los archivos descomprimidos, no este ZIP.
